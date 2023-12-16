@@ -1,0 +1,25 @@
+body{
+    color:white;
+    background-image: url(../img/1606.m00.i104.n034.S.c12.355711514\ Blue\ glow\ light\ circle\ whirl\ vortex\ vector\ background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 150px;
+}
+
+.container{
+    background-color: rgba(211, 211, 211, 0.323);
+}
+
+h2{
+    background-color: black;
+    font-size: 2rem;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
